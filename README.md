@@ -24,7 +24,7 @@ Encuentra la descripción conceptual y matemática de cada uno de los radiomics 
 
 **Datos:** Los datos obtenidos han sido recibidos directamente del personal involucrado en el área, de la Fundación Valle del Lili. Estos datos son un historial generado por los sistemas internos de gestión de pacientes de la FVL, por lo cual cuentan con las características y atributos de interés para la institución. El conjunto de datos abarca información detallada sobre citas médicas y datos sociodemográficos de los pacientes. Incluye datos sobre el agendamiento y la asistencia a citas, confirmaciones, antecedentes del paciente, y tipo de estudio médico realizado. Además, proporciona información personal y social de los pacientes, como edad, sexo, y residencia. Este conjunto de datos es útil para analizar la gestión de citas médicas y el perfil demográfico y socioeconómico de los pacientes atendidos.
 
-## Dataset 4, disponible en la carpeta dataset4
+## Dataset 4, disponible en [este enlace]([url](https://drive.google.com/file/d/1_VvhJCe4EPIcNy1PBsEMTduNmO2qRm57/view?usp=drive_link))
 ### Prediccion de Apnea del sueño
 **Contexto:** La apnea del sueño es un trastorno del sueño caracterizado por pausas repetidas en la respiración o períodos de respiración superficial durante el sueño. Estas pausas pueden durar desde unos pocos segundos hasta minutos y pueden ocurrir 30 veces o más por hora. La apnea del sueño puede ser obstructiva (la más común), central (menos común), o una combinación de ambas. La Apnea Obstructiva del Sueño (AOS) ocurre cuando los músculos de la garganta se relajan excesivamente, bloqueando parcialmente o completamente las vías respiratorias superiores.
 
