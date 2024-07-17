@@ -19,6 +19,7 @@ Encuentra la descripción conceptual y matemática de cada uno de los radiomics 
 ## Dataset 3, disponible en la carpeta dataset3
 ### Identificación de inasistencias en pacientes con citas programadas para estudios de resonancia magnética en un centro de alta complejidad en Cali.
 
-**Contexto:**
+**Contexto:** El problema de las inasistencias a citas médicas genera pérdidas económicas significativas y afecta la eficiencia operativa de las instituciones de salud en Colombia, y en general en cualquier país del mundo. Para abordar el problema de inasistencias de los pacientes a las citas agendadas se puede utilizar un modelo de clasificación en dos clases previamente definidas, que son: “ASISTE” o “NO ASISTE”. De este modo, se ayuda a las instituciones a tomar decisiones informadas, optimizar la asignación de recursos, reducir costos operativos y mejorar la satisfacción y adherencia de los pacientes a sus tratamientos. 
 
-**Datos:**
+
+**Datos:** Los datos obtenidos han sido recibidos directamente del personal involucrado en el área, de la Fundación Valle del Lili. Estos datos son un historial generado por los sistemas internos de gestión de pacientes de la FVL, por lo cual cuentan con las características y atributos de interés para la institución. El conjunto de datos abarca información detallada sobre citas médicas y datos sociodemográficos de los pacientes. Incluye datos sobre el agendamiento y la asistencia a citas, confirmaciones, antecedentes del paciente, y tipo de estudio médico realizado. Además, proporciona información personal y social de los pacientes, como edad, sexo, y residencia. Este conjunto de datos es útil para analizar la gestión de citas médicas y el perfil demográfico y socioeconómico de los pacientes atendidos.
